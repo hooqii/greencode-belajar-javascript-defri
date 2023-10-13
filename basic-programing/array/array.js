@@ -8,3 +8,4 @@ console.log(penjumlahan)
 console.log(inisial)
 //Index hanya ada di dalam tipe data array dan string
 //Index di mulai dari 0
+

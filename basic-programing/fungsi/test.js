@@ -1,11 +1,11 @@
-// function pengurutan(awal, akhir) {
-//     for (let index = awal; index <= akhir; index++) {
-//         console.log(index)
-//     }
-// }
+function pengurutan(awal, akhir) {
+    for (let index = awal; index <= akhir; index++) {
+        console.log(index)
+    }
+}
 
-// pengurutan(12,20)
-
+pengurutan(10,20)
+console.log(pengurutan)
 
 function semuaAngka(awal, akhir) {
     for (let index = awal; index <= akhir; index++) {
